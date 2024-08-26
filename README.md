@@ -38,7 +38,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2> <img wight="50" height="50" src="" />Connect with Me</h2>
+<h2> <img wight="30" height="30" src="connect/connect.gif" />Connect with Me</h2>
 
  <p align="center"> 
 
