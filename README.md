@@ -17,7 +17,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2>🛠️ Toolkit of a Modern Developer</h2>
+<h2> <img wight="30" height="30" src="tools/tools-2.gif" />Toolkit of a Modern Developer</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -28,7 +28,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2>🛠️ My Developer Toolkit</h2>
+<h2> <img wight="40" height="40" src="tools/tools.gif" />My Developer Toolkit</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
