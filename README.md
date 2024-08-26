@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDByOGNoaGlzeTVzcmZ1cWF0azg3am1nbTRrOWc1YWNpeXVkMXJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/100.webp" width="500"/>
+<img src="Hello/header.gif" width="500"/>
 </div>
 
 <h1 align="center">Hi there <img wight="50" height="50" src="Hello/HI.gif"/> <span>,I'm Marian Slovianyn👋</h1>
@@ -9,6 +9,10 @@ experimenting. I enjoy creating engaging and modern projects, constantly improvi
 my skills, and learning about new technologies. I am eager to find opportunities to
 showcase my abilities and am ready for new challenges. As a beginner, I am open to
 learning and enhancing my skills to contribute to interesting projects.</p>
+
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDByOGNoaGlzeTVzcmZ1cWF0azg3am1nbTRrOWc1YWNpeXVkMXJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/100.webp" width="500"/>
+</div>
 
 </br>
 
