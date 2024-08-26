@@ -33,20 +33,26 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
+<h2>🌐 Connect with Me</h2>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img wight="50" height="50" src="" alt="LinkedIn"/>
-  </a>
-  <a href="" target="_blank">
-    <img wight="50" height="50" src="" alt="Instagram"/>
-  </a>
-   <a href="" target="_blank">
-    <img wight="50" height="50" src="" alt="Telegram"/>
-  </a>
-  <a href="" target="_blank">
-    <img wight="50" height="50" src="" alt="GitHub"/>
-  </a>
+ <p align="center"> 
+<a href="https://www.instagram.com/marian_slovianyn_dev/" target="_blank">
+  <img wight="50"height="50"src="Social Media/instagram.gif"alt="Instagram"/>
+</a>
+
+<a href="www.linkedin.com/in/marian-slovianyn-556040302" target="_blank">
+  <img wight="50" height="50" src="Social Media/linkedin.gif" alt="linkedin" />
+</a>
+
+<a href="https://github.com/Marian-Slovianyn" target="_blank">
+  <img wight="50" height="50" src="Social Media/github.gif" alt="GitHub" />
+</a>
+
+<a href="marianslovianyn.gmail.com" target="_blank">
+  <img wight="50" height="50" src="Social Media/mail-love.gif" alt="Gmail" />
+</a>
+
+<a href="@Marian_Slovianyn" target="_blank">
+  <img wight="50" height="50" src="Social Media/telegram-gif.gif" alt="Telegram" />
+</a>
 </p>
-
- 
