@@ -33,8 +33,6 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-username/" target="_blank">
