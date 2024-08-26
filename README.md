@@ -2,7 +2,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDByOGNoaGlzeTVzcmZ1cWF0azg3am1nbTRrOWc1YWNpeXVkMXJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/100.webp" width="500"/>
 </div>
 
-<h1 align="center">Hi there, <img wight="50" height="50" src="Hello/Hello"/> <span>I'm Marian Slovianyn👋</h1>
+<h1 align="center">Hi there, <img wight="50" height="50" src="Hello/Hi.gif"/> <span>I'm Marian Slovianyn👋</h1>
 
 <p>Hi! My name is Marian, and I am a self-taught frontend developer who loves
 experimenting. I enjoy creating engaging and modern projects, constantly improving
