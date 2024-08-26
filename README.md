@@ -33,15 +33,17 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2>🌐 Connect with Me</h2>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-username/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img wight="50" height="50" src="Social Media/download.gif" alt="Instagram"/>
   </a>
+
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -61,3 +63,5 @@ learning and enhancing my skills to contribute to interesting projects.</p>
     <img src="https://img.shields.io/badge/-Stack%20Overflow-%23F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </p>
+
+ 
