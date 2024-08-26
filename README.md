@@ -33,9 +33,10 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2>🌐 Connect with Me</h2>
+<h2> <img wight="50" height="50" src="" Connect with Me</h2>
 
  <p align="center"> 
+
 <a href="https://www.instagram.com/marian_slovianyn_dev/" target="_blank">
   <img wight="50"height="50"src="Social Media/instagram.gif"alt="Instagram"/>
 </a>
@@ -43,7 +44,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
  <a href="www.linkedin.com/in/marian-slovianyn-556040302" target="_blank">
   <img wight="50" height="50" src="Social Media/linkedin.gif" alt="linkedin" />
 </a>
- 
+
 <a href="https://github.com/Marian-Slovianyn" target="_blank">
   <img wight="50" height="50" src="Social Media/github.gif" alt="GitHub" />
 </a>
