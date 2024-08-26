@@ -35,30 +35,17 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="" target="_blank">
+    <img wight="50" height="50" src="" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/your-username/" target="_blank">
-    <img wight="50" height="50" src="Social Media/download.gif" alt="Instagram"/>
+  <a href="" target="_blank">
+    <img wight="50" height="50" src="" alt="Instagram"/>
   </a>
-
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+   <a href="" target="_blank">
+    <img wight="50" height="50" src="" alt="Telegram"/>
   </a>
-  <a href="https://weblancer.net/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/-Weblancer-%23000?style=flat-square&logo=google-chrome&logoColor=white" alt="Weblancer"/>
-  </a>
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://img.shields.io/badge/-Roadmap.sh-%23007ACC?style=flat-square&logo=google-chrome&logoColor=white" alt="Roadmap.sh"/>
-  </a>
-  <a href="https://quizlet.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Quizlet-%23007A33?style=flat-square&logo=quizlet&logoColor=white" alt="Quizlet"/>
-  </a>
-  <a href="https://www.w3schools.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-W3Schools-%232769C6?style=flat-square&logo=w3c&logoColor=white" alt="W3Schools"/>
-  </a>
-  <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-%23F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="" target="_blank">
+    <img wight="50" height="50" src="" alt="GitHub"/>
   </a>
 </p>
 
