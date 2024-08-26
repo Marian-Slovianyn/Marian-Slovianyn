@@ -1,8 +1,9 @@
 <div align="center">
-<img src="Hello/header.gif" width="500"/>
+<img src="Hello/header.png" width="900"/>
 </div>
 
-<h1 align="center">Hi there <img wight="50" height="50" src="Hello/HI.gif"/> <span>,I'm Marian Slovianyn👋</h1>
+<h1 align="center">Hello everyone!<img wight="50" height="50" src="Hello/HI.gif"/> </br> I'm Marian Slovianyn👋</h1>
+<h2 align="center">Frontend Developer</h2>
 
 <p>Hi! My name is Marian, and I am a self-taught frontend developer who loves
 experimenting. I enjoy creating engaging and modern projects, constantly improving
