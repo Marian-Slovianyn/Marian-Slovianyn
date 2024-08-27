@@ -12,7 +12,7 @@ showcase my abilities and am ready for new challenges. As a beginner, I am open 
 learning and enhancing my skills to contribute to interesting projects.</p>
 
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDByOGNoaGlzeTVzcmZ1cWF0azg3am1nbTRrOWc1YWNpeXVkMXJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/100.webp" width="500"/>
+<img src="Hello/coder.gif" width="500"/>
 </div>
 
 </br>
