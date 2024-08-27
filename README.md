@@ -17,21 +17,21 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 
 </br>
 
-<h2> <img wight="40" height="40" src="tools/tools-2.gif" />Toolkit of a Modern Developer</h2>
+<h2> <img wight="40" height="40" src="tools/tools-2.gif" />Development Arsenal</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+  <img wight="50" height="50" src="tools-1/html.gif"/>
+  <img wight="50" height="50" src="tools-1/css.gif"/>
+  <img wight="50" height="50" src="tools-1/js.gif"/>
+  <img wight="50" height="50" src="tools-1/react.gif"/>
 </p>
 
 </br>
 
-<h2> <img wight="40" height="40" src="tools/tools.gif" />My Developer Toolkit</h2>
+<h2> <img wight="40" height="40" src="tools/tools.gif" />Collaborative Development Arsenal</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img wight="50" height="50" src="tools-2/git.gif"/>
+  <img wight="50" height="50" src="tools-2/github.gif"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
