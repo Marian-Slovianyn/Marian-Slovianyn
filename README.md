@@ -31,9 +31,9 @@ learning and enhancing my skills to contribute to interesting projects.</p>
 <h2> <img wight="40" height="40" src="tools/tools.gif" />Collaborative Development Arsenal</h2>
 <p align="center">
   <img wight="50" height="50" src="tools-2/git.gif"/>
-  <img wight="50" height="50" src="tools-2/github.gif"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img wight="50" height="50" src="tools-2/GitHub.gif"/>
+  <img  wight="50" height="50" src="tools-2/vscode.gif"/>
+  <img wight="50" height="50" src="tools-2/figma.gif"/>
 </p>
 
 </br>
