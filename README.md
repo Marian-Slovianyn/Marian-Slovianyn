@@ -5,11 +5,11 @@
 <h1 align="center">Hello everyone!<img wight="50" height="50" src="Hello/HI.gif"/> </br> I'm Marian Slovianyn👋</h1>
 <h2 align="center">Frontend Developer</h2>
 
-<p>Hi! My name is Marian, and I am a self-taught frontend developer who loves
-experimenting. I enjoy creating engaging and modern projects, constantly improving
-my skills, and learning about new technologies. I am eager to find opportunities to
-showcase my abilities and am ready for new challenges. As a beginner, I am open to
-learning and enhancing my skills to contribute to interesting projects.</p>
+<p>I am a web development enthusiast with foundational knowledge in HTML, CSS,
+JavaScript, and React. My goal is to create intuitive and visually appealing user
+interfaces that adhere to modern standards. I continuously improve my skills
+through personal projects and courses, and I am committed to achieving a high level
+of professionalism in frontend development.</p>
 
 <div align="center">
 <img src="Hello/coder.gif" width="500"/>
