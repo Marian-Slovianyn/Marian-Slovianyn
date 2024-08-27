@@ -58,7 +58,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
   <img wight="50" height="50" src="Social Media/mail-love.gif" alt="Gmail" />
 </a>
 
- <a href="@Marian_Slovianyn" target="_blank">
+ <a href="https://t.me/Marian_Slovianyn" target="_blank">
   <img wight="50" height="50" src="Social Media/telegram-gif.gif" alt="Telegram" />
 </a>
 </p>
