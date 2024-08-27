@@ -46,7 +46,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
   <img wight="50"height="50"src="Social Media/instagram.gif"alt="Instagram"/>
 </a>
    
- <a href="www.linkedin.com/in/marian-slovianyn-556040302" target="_blank">
+ <a href="https://www.linkedin.com/in/marian-slovianyn-556040302/" target="_blank">
   <img wight="50" height="50" src="Social Media/linkedin.gif" alt="linkedin" />
 </a>
 
