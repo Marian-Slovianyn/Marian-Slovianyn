@@ -54,7 +54,7 @@ learning and enhancing my skills to contribute to interesting projects.</p>
   <img wight="50" height="50" src="Social Media/github.gif" alt="GitHub" />
 </a>
 
- <a href="marianslovianyn.gmail.com" target="_blank">
+ <a href="mailto:marianslovianyn.gmail.com" target="_blank">
   <img wight="50" height="50" src="Social Media/mail-love.gif" alt="Gmail" />
 </a>
 
